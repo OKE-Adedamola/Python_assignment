@@ -49,7 +49,7 @@ def compute_tax(status, income):
 
 # ---- Main Program ----
 print("Name: OKE Adedamola Olorunloba")
-print("Course: CSC 201 ⇒ Python")
+print("Course: CSC 201 ⇒ Computer Proramming 1")
 print("Date: 25/11/2025")
 print("--")
 print("Filing Status")
