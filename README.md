@@ -50,6 +50,7 @@ def compute_tax(status, income):
 # ---- Main Program ----
 print("Name: OKE Adedamola Olorunloba")
 print("Course: CSC 201 ⇒ Computer Proramming 1")
+print("Department: Computer Science")
 print("Date: 25/11/2025")
 print("--")
 print("Filing Status")
@@ -64,5 +65,3 @@ print("Enter taxable income:")
 income = float(input())
 tax = compute_tax(status, income)
 print(f"Total tax is: ${tax:.2f}")
-<img width="796" height="1657" alt="image" src="https://github.com/user-attachments/assets/975cd991-bb92-4422-86e3-f3f1e0a53f66" />
-
