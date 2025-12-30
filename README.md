@@ -65,3 +65,5 @@ print("Enter taxable income:")
 income = float(input())
 tax = compute_tax(status, income)
 print(f"Total tax is: ${tax:.2f}")
+
+<img width="796" height="1682" alt="image" src="https://github.com/user-attachments/assets/636ad7c9-ebd8-45f9-9da3-4b426301cb32" />
